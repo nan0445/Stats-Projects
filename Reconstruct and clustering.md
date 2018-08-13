@@ -3,7 +3,7 @@ Here is some of my scientific stats (not published, otherwise see refs). Basical
 
 ## 1. Data representation
 ###  raw data - visualization of neural response from volume scanning
-![](https://github.com/nan0445/Stats-Projects/blob/master/pic/PN_AL_volume_scanning.gif) 
+![](https://github.com/nan0445/Stats-Projects/blob/master/pic/PN_AL_volume_scanning.gif) ![](https://github.com/nan0445/Stats-Projects/blob/master/pic/PN_response.gif)
 
 Firstly, we 3D reconstructed the neural terminals and it's responses to stimuli.
 
