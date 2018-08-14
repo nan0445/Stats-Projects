@@ -18,7 +18,7 @@ The above responses (could be hundreds or thousands) can be encoded by dozens an
 
 1-D PCA reconstruction representation, subregion "channels" encoded.
 
-![](https://github.com/nan0445/Stats-Projects/blob/master/pic/PN-PCA-LH.png)
+![](https://github.com/nan0445/Stats-Projects/blob/master/pic/PN-PCA-LH1.png)
 
 2-D PCA, whole region encoded
 
