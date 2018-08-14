@@ -22,7 +22,13 @@ The above responses (could be hundreds or thousands) can be encoded by dozens an
 
 2-D PCA, whole region encoded
 
-
-
 ## 2. Clustering and Regression
+The 1-D PCA or 2-D PCA generated a reduced representation space. We can then calculate the similarity or correlations within the data set by the reduced space. For 2-D pattern similarity comparisons, the image matrix was first flattened. The Euclidean and Cosine distances were then calculated as a parameter for clustering. (below shows a sample of similarity comparison and Euclidean distances for clustering)
 
+![](https://github.com/nan0445/Stats-Projects/blob/master/pic/correlations.png)
+
+This method can be further applied to other neural terminals, and if the same set of stimuli were presented, the correlations between different neural terminals can be calculated by regression. (below shows a linear correlation between A neuron and B neuron)
+
+![](https://github.com/nan0445/Stats-Projects/blob/master/pic/regression.png)
+
+(All of the analyses were performed in either Matlab or Python Scikit-learn tool)
