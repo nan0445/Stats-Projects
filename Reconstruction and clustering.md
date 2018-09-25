@@ -1,5 +1,5 @@
 # PCA and Clustering
-Here is some of my scientific stats (not published, otherwise see refs). Basically, here are steps of validation and analyses of a typical neural response.
+Here is some of my scientific stats (not published, otherwise see refs). Basically, here are the first few steps of analyses on a sample of neural response.
 
 ## 1. Data representation
 ###  raw data - visualization of neural response from volume scanning
@@ -30,5 +30,7 @@ The 1-D PCA or 2-D PCA generated a reduced representation space. We can then cal
 This method can be further applied to other neural terminals, and if the same set of stimuli were presented, the correlations between different neural terminals can be calculated by regression. (below shows a linear correlation between A neuron and B neuron)
 
 ![](https://github.com/nan0445/Stats-Projects/blob/master/pic/regression.png)
+
+So above is one example of the first few steps of exploratory data analyses on neural activity patterns. The features extracted here will be feed into modeling with other features later.
 
 (All of the analyses were performed in either Matlab or Python Scikit-learn tool)
